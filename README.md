@@ -1,2 +1,0 @@
-# cnd
-JsDelivr
