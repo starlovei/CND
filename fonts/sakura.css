@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "樱花字体";
+    src: url("樱花字体.woff2") format("woff2"),
+         url("樱花字体.woff") format("woff"),
+         url("樱花字体.ttf") format("truetype"),
+         url("樱花字体.eot") format("embedded-opentype"),
+         url("樱花字体.svg") format("svg");
+  }
