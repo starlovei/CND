@@ -1,8 +1,0 @@
-@font-face {
-    font-family: "sakura1";
-    src: url("sakura1.woff2") format("woff2"),
-         url("sakura1.woff") format("woff"),
-         url("sakura1.ttf") format("truetype"),
-         url("sakura1.eot") format("embedded-opentype"),
-         url("sakura1.svg") format("svg");
-  }
