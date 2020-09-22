@@ -41,7 +41,7 @@ body{
 	width: 543px;
 	height: 213px;
 	margin-bottom: 30px;
-	background: url('../images/error.png') center center no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/starlovei/picgo/404/error.png') center center no-repeat;
 }
 .error > .container > .go-back{
 	width: 302px;
