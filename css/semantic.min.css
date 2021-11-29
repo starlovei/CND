@@ -25541,11 +25541,7 @@ a.ui.nag {
   color: #1a531b;
 }
 .ui.progress.success .bar {
-  background-color: linear-gradient(
-    to right,
-    #c722df 0%,
-    #43c8ce 100%
-  ) !important;
+  background: linear-gradient(to right, #c722df 0%, #43c8ce 100%) !important;
 }
 .ui.progress.success .bar,
 .ui.progress.success .bar::after {
