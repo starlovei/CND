@@ -9,8 +9,7 @@
   list-style: none;
 }
 .toc-list {
-  margin: 0 10px;
-  padding-left: 20px;
+  padding-left: 12px;
   background-color: #eee;
   border-radius: 20px;
 }
